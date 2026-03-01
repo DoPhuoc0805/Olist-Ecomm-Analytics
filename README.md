@@ -5,7 +5,7 @@ Libraries: * Xử lý dữ liệu: Pandas, Numpy, Sqlite3
 Phân tích & Gợi ý: MLxtend (Apriori, Association Rules)
 Trực quan hóa: Matplotlib, Seaborn, NetworkX
 BI Tools: Power BI (dành cho Dashboard tổng hợp)
-- Kỹ thuật
+- Kỹ thuật:
 ETL Pipeline: Tự động hóa việc trích xuất và nạp dữ liệu từ CSV vào SQLite để tối ưu hiệu suất.
 Customer Segmentation: Phân loại khách hàng bằng mô hình RFM (Recency, Frequency, Monetary).
 Product Recommendation: Sử dụng thuật toán Apriori để gợi ý sản phẩm theo từng phân khúc khách hàng cụ thể.
